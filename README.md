@@ -1,2 +1,2 @@
-# PriceTable
+# Price-Table
  
